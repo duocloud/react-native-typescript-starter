@@ -1,11 +1,11 @@
 # React Native Typescript Starter
 
-Quick start for react native typescript applicaiton
+Quick start for react native typescript application
 
 - React Native
 - Typescript
 - Redux
-- []
+- [Native-base](http://nativebase.io)
 - [React-Native-Elements](https://github.com/react-native-training/react-native-elements)
 - [lottie-react-native](https://github.com/react-native-community/lottie-react-native)
 
